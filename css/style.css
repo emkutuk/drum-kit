@@ -21,31 +21,31 @@ a:hover {
 }
 
 .w {
-  background-image: url("/img/crash.png");
+  background-image: url("img/crash.png");
 }
 
 .a {
-  background-image: url("/img/kick.png");
+  background-image: url("img/kick.png");
 }
 
 .s {
-  background-image: url("/img/snare.png");
+  background-image: url("img/snare.png");
 }
 
 .d {
-  background-image: url("/img/tom1.png");
+  background-image: url("img/tom1.png");
 }
 
 .j {
-  background-image: url("/img/tom2.png");
+  background-image: url("img/tom2.png");
 }
 
 .k {
-  background-image: url("/img/tom3.png");
+  background-image: url("img/tom3.png");
 }
 
 .l {
-  background-image: url("/img/tom4.png");
+  background-image: url("img/tom4.png");
 }
 
 .set {
